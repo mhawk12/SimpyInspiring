@@ -1,4 +1,4 @@
 ## A simple chrome extension to show inspiring quotes on opening a new tab
 
-<img width="1680" alt="screen shot 2019-01-28 at 3 17 32 pm" src="https://user-images.githubusercontent.com/12582488/51866949-ed0c5200-230f-11e9-8aa0-9c7dfdd20399.png">
-<img width="1680" alt="screen shot 2019-01-28 at 3 17 23 pm" src="https://user-images.githubusercontent.com/12582488/51866948-ed0c5200-230f-11e9-9b40-1330df1d6df4.png">
+<img width="1680" alt="screen shot 2019-01-28 at 3 19 19 pm" src="https://user-images.githubusercontent.com/12582488/51867076-2fce2a00-2310-11e9-8215-b175343d033f.png">
+<img width="1680" alt="screen shot 2019-01-28 at 3 19 26 pm" src="https://user-images.githubusercontent.com/12582488/51867077-2fce2a00-2310-11e9-8902-7a7cd1d1745c.png">
