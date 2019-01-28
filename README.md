@@ -1,0 +1,1 @@
+# A Simple chrome extension to show inspiring quotes on opening a new tab
