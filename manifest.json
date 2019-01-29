@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Simply Inspiring",
   "description": "A quote a day keeps the laziness away ",
-  "version": "1",
+  "version": "0.0.0.1",
   "author": "Nishant Shekhar",
   "browser_action": {
     "default_title": "Simply Inspiring"

@@ -1044,8 +1044,8 @@ export const getQuotes = () => [
       "from": "Drew Houston, founder of Dropbox"
    },
    {
-      "text": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma",
-      "from": "which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary."
+      "text": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma.",
+      "from": "Steve Jobs"
    },
    {
       "text": "Don’t be cocky. Don’t be flashy. There’s always someone better than you.",
