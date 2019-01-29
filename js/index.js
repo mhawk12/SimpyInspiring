@@ -1,3 +1,6 @@
+import quotes from '/quotes/quotes'
+
+
 //get body color and set it to body_color
 chrome.storage.sync.get(["body_color"], (result) => {
     let body_color = result.body_color;
