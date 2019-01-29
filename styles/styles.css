@@ -16,24 +16,29 @@
   src: url(/fonts/SpaceMono-Regular.ttf);
 }
 
-.h1_white {
+.quote_white {
   font-family: my_monospace_bold;
   font-weight: bolder;
   font-size: 3em;
   color: whitesmoke;
   position: absolute;
-  bottom: 5%;
-  right: 5%;
+  bottom: 2%;
+  right: 1%;
 }
 
-.h1_black {
+.quote_black {
   font-family: my_monospace_bold;
   font-weight: bolder;
   font-size: 3em;
   color: black;
   position: absolute;
-  bottom: 5%;
-  right: 5%;
+  bottom: 2%;
+  right: 1%;
+}
+
+#quote_from {
+  float: right;
+  padding-right: 3%;
 }
 
 .settings {
@@ -65,14 +70,19 @@
   font-family: my_monospace;
   font-weight: bold;
   font-size: 1.5em;
-  /* width: 80px; */
   padding: 5px;
   text-decoration: none;
   display: block;
 }
 
-.settings_options a:hover {background-color: #888a88;}
+.settings_options a:hover {
+  background-color: #888a88;
+}
 
-.settings:hover .settings_options{display: block;}
+.settings:hover .settings_options {
+  display: block;
+}
 
-.settings:hover .settings_btn {background-color: #888a88;}
+.settings:hover .settings_btn {
+  background-color: #888a88;
+}
