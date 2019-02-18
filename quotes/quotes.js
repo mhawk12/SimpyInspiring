@@ -288,8 +288,8 @@ export const getQuotes = () => [
       "from": "Nolan Bushnell, entrepreneur."
    },
    {
-      "text": "Never give in",
-      "from": "never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy. - Winston Churchill, British Prime Minister."
+      "text": "Never give in never, never, never, never, in nothing great or small, large or petty, never give in except to convictions of honour and good sense. Never yield to force; never yield to the apparently overwhelming might of the enemy.",
+      "from": "Winston Churchill, British Prime Minister."
    },
    {
       "text": "Your most unhappy customers are your greatest source of learning.",
@@ -948,8 +948,8 @@ export const getQuotes = () => [
       "from": "Tony Robbins"
    },
    {
-      "text": "If you don’t have a competitive advantage",
-      "from": "don’t compete."
+      "text": "If you don’t have a competitive advantage, don’t compete.",
+      "from": "unknown"
    },
    {
       "text": "You were born to win, but to be a winner, you must plan to win, prepare to win, and expect to win.",
@@ -960,8 +960,8 @@ export const getQuotes = () => [
       "from": "Mario Andretti"
    },
    {
-      "text": "Don’t be trapped by dogma",
-      "from": "which is living with the results of other people’s thinking."
+      "text": "Don’t be trapped by dogma, which is living with the results of other people’s thinking.",
+      "from": "unknown"
    },
    {
       "text": "Do or do not. There is no try.",
@@ -1168,8 +1168,8 @@ export const getQuotes = () => [
       "from": "Noah Everett, founder of Twitpic"
    },
    {
-      "text": "This defines entrepreneur and entrepreneurship",
-      "from": "the entrepreneur always searches for change, responds to it, and exploits it as an opportunity.― Peter F. Drucker, educator and author"
+      "text": "This defines entrepreneur and entrepreneurship. The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
+      "from": "Peter F. Drucker, educator and author"
    },
    {
       "text": "You don’t learn to walk by following rules. You learn by doing and falling over.",
